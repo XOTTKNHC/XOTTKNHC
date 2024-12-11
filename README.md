@@ -1,3 +1,3 @@
 <div id="header" align="center">
-  <img src="https://tenor.com/ru/view/boykisser-dance-gif-13953661362664316567" width="100"/>
+  <img src="https://media1.tenor.com/m/waVdFGWzHpcAAAAC/boykisser-dance.gif" width="100"/>
 </div>
